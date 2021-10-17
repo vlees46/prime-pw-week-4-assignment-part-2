@@ -1,0 +1,22 @@
+/* stylesheet.css */
+body {
+    background-color: #e5e7ee;
+}
+.info
+ {
+  text-align: center;
+  background-color: #3e64ee;
+}
+
+ img {
+    max-width: 100%;
+    height: auto;
+
+    
+ }
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
